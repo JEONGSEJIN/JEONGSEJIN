@@ -25,17 +25,10 @@ Here are some ideas to get you started:
   
 ## ⭐ My Interests  
 - Natural Language Processing 
-  Multilingual User Conversation (ex. Korean User-English User)
-  Machine Translation (MT)
-  Fake / Ambiguous News Detection
-  Rule-based Korean Analysis
+  Multilingual User Conversation (ex. Korean User-English User), Machine Translation (MT), Fake / Ambiguous News Detection, Rule-based Korean Analysis
 - Speech Recognition / Processing
-  Automatic Speech Recognition (ASR)
-  Speech Emotion Recognition (SER)
-  Conversation Speech Bot (ex. Siri Ver.2)
+  Automatic Speech Recognition (ASR), Speech Emotion Recognition (SER), Conversation Speech Bot (ex. Siri Ver.2)
 - Big Data Processing 
-  Distributed Processing based Big Data Processing
-  Spark Real-Time Streaming Processing 
+  Distributed Processing based Big Data Processing, Spark Real-Time Streaming Processing 
 - Reinforcement Learning
-  Multi-Agent
-  Game Theory
+  Multi-Agent, Game Theory
