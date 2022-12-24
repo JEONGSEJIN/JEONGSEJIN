@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ## ⭐ Sejin Jeong
-> E-mail: [G-mail(luyttt4@gmail.com)](luyttt4@gmail.com)
+> E-mail: [G-mail (luyttt4@gmail.com)](luyttt4@gmail.com)
 
 ## ⭐ My Home
-  > (Public)  [velog(https://velog.io/@sejinjeong)](https://velog.io/@sejinjeong) 
+  > (Public)  [velog (https://velog.io/@sejinjeong)](https://velog.io/@sejinjeong) 
 
-  > (Private) [GitBlog(https://jeongsejin.github.io/)](https://jeongsejin.github.io/)
+  > (Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)
   
 ## ⭐ My Interests
   > Natural Language Processing  
