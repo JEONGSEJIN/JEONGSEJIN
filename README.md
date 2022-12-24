@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 > E-mail: [G-mail(luyttt4@gmail.com)](luyttt4@gmail.com)
 
 ## ⭐ My Home
-> (Private) [GitBlog(https://jeongsejin.github.io/)](https://jeongsejin.github.io/)
-> (Public)  [velog(https://velog.io/@sejinjeong)](https://velog.io/@sejinjeong)
+> (Public)  [velog(https://velog.io/@sejinjeong)](https://velog.io/@sejinjeong)  (Private) [GitBlog(https://jeongsejin.github.io/)](https://jeongsejin.github.io/)
   
 # 🌑 My Interests  
 - Deep Learning  
