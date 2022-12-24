@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ⭐ Sejin Jeong
+## ⭐ Sejin Jeong
 E-mail: [luyttt4@gmail.com](luyttt4@gmail.com)
 
-# ⭐ My Home
-
+## ⭐ My Home
+(Private) [GitBlog](https://jeongsejin.github.io/)
+(Public)  [velog](https://velog.io/@sejinjeong)
   
 # 🌑 My Interests  
 - Deep Learning  
