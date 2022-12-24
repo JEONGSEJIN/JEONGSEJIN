@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   
 ## ⭐ My Interests
   > Natural Language Processing  
-    - Multilingual User Conversation (ex. Korean User-English User)  
-    - Machine Translation (MT)  
-    - Fake / Ambiguous News Detection  
-    - Rule-based Korean Analysis  
+    • Multilingual User Conversation (ex. Korean User-English User)  
+    • Machine Translation (MT)  
+    •  Fake / Ambiguous News Detection  
+    •  Rule-based Korean Analysis  
 
   > Speech Recognition / Processing  
     - Automatic Speech Recognition (ASR)  
