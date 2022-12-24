@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   > Speech Recognition / Processing  
     • Automatic Speech Recognition (ASR)  
     • Speech Emotion Recognition (SER)  
-    • Conversation Speech Bot  
+    • Speech Bot  
 
   > Big Data Processing  
     • Distributed Processing based Big Data Processing  
