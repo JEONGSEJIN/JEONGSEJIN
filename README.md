@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
 ## ⭐ My Interests
   > Natural Language Processing  
-    • Multilingual User Conversation (ex. Korean User-English User)  
+    • ChatBot  
     • Machine Translation (MT)  
     • Fake / Ambiguous News Detection  
     • Rule-based Korean Analysis  
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   > Speech Recognition / Processing  
     • Automatic Speech Recognition (ASR)  
     • Speech Emotion Recognition (SER)  
-    • Conversation Speech Bot (ex. Siri Ver.2)  
+    • Conversation SpeechBot
 
   > Big Data Processing  
     • Distributed Processing based Big Data Processing  
