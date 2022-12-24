@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ⭐ Sejin Jeong
+E-mail: [luyttt4@gmail.com](luyttt4@gmail.com)
+
+# ⭐ My Home
+
+  
+# 🌑 My Interests  
+- Deep Learning  
+  Representation Learning, DNN Optimization, Embedded AI
+- Computer Vision  
+  Geometry based Perception, Efficient Video Processing  
+- Speech, Acoustics  
+  Speech Enhancement/Separation/Dereverberation  
+- Signal Processing  
