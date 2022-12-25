@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## ⭐ My Interests
   > Natural Language Processing  
     • Dialogue System  
-    • Machine Translation  
+    • Language Model  
     • Fake / Ambiguous News Detection  
     • Rule-based Korean Analysis  
 
