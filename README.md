@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ⭐ Sejin Jeong
+<!--## ⭐ Sejin Jeong
 > E-mail: [G-mail (luyttt4@gmail.com)](luyttt4@gmail.com)
-
-## ⭐ My Home
+--> 
+<!--## ⭐ My Home
   > (Public)  [velog (https://velog.io/@sejinjeong)](https://velog.io/@sejinjeong) 
 
   > <del>(Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)</del>
-  
-## ⭐ My Interests
+-->  
+##  My Interests
   > Natural Language Processing  
     • Dialogue System 
     • Conversation Model  
@@ -35,15 +35,16 @@ Here are some ideas to get you started:
     • Automatic Speech Recognition (ASR)  
     • Speech Emotion Recognition (SER)  
     • Spoken Dialog System
-
+<!--
   > Big Data Processing  
     • Distributed Processing based Big Data Processing  
     • Spark Real-Time Streaming Processing  
-
+--> 
+<!--
   > Reinforcement Learning  
     • Multi-Agent  
     • Game Theory
-
+--> 
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
 <a href="https://cplusplus.com/?" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/></a>
