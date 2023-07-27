@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   > <del>(Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)</del>
 -->  
 #  Interests
-    • Natural Language Processing  
+  > Natural Language Processing  
     • Dialogue System  
     • Language Model  
 <!--  
@@ -32,9 +32,7 @@ Here are some ideas to get you started:
     • Multi-Turn Conversation
     • Dialogue Reasoning
 --> 
-<!--  
   > Speech Recognition / Processing  
---> 
     • Automatic Speech Recognition (ASR)  
 <!--     
     • Speech Emotion Recognition (SER)  
