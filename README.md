@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   > <del>(Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)</del>
 -->  
-#  Interests
+###  Interests
   > Natural Language Processing  
     • Dialogue System  
     • Language Model  
