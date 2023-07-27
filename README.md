@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   > <del>(Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)</del>
 -->  
-### ⭐ Interests
+### ⭐ Interests  
   > Natural Language Processing  
     • Dialogue System  
     • Language Model  
@@ -49,6 +49,11 @@ Here are some ideas to get you started:
     • Game Theory
 --> 
 
+## ⭐ My Home  
+  > (Public)  [velog (https://velog.io/@sejinjeong)](https://velog.io/@sejinjeong)  
+
+  > <del>(Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)</del>  
+
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
 <a href="https://cplusplus.com/?" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/></a>
 <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://img.shields.io/badge/Java-FFFFFF?style=plastic&logo=OpenJDK&logoColor=white"/></a>
@@ -61,8 +66,3 @@ Here are some ideas to get you started:
 <a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=plastic&logo=ApacheSpark&logoColor=white"/></a>
 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGSEJIN&langs_count=10&layout=compact&theme=dark)](https://github.com/JEONGSEJIN/JEONGSEJIN)
-
-## ⭐ My Home
-  > (Public)  [velog (https://velog.io/@sejinjeong)](https://velog.io/@sejinjeong) 
-
-  > <del>(Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)</del>
