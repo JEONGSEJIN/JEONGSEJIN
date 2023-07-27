@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## ⭐ My Home
   > (Public)  [velog (https://velog.io/@sejinjeong)](https://velog.io/@sejinjeong) 
 
-  > (Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)
+  > <del>(Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)</del>
   
 ## ⭐ My Interests
   > Natural Language Processing  
