@@ -23,18 +23,21 @@ Here are some ideas to get you started:
 
   > <del>(Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)</del>
 -->  
-##  My Interests
-  > Natural Language Processing  
-    • Dialogue System 
+#  Interests
+  > Natural Language Processing
+    • Dialogue System
+    • Language Model
+<!--  
     • Conversation Model  
     • Multi-Turn Conversation
     • Dialogue Reasoning
-    • Language Model
-
+-->  
   > Speech Recognition / Processing  
     • Automatic Speech Recognition (ASR)  
+<!--     
     • Speech Emotion Recognition (SER)  
     • Spoken Dialog System
+--> 
 <!--
   > Big Data Processing  
     • Distributed Processing based Big Data Processing  
