@@ -45,3 +45,4 @@ Here are some ideas to get you started:
 
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=appveyor&logo=Python&logoColor=white"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=appveyor&logo=C++&logoColor=white"/></a>
