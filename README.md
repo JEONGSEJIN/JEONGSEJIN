@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   > <del>(Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)</del>
 -->  
 #  Interests
-  > Natural Language Processing
-    • Dialogue System
-    • Language Model
+  > Natural Language Processing  
+    • Dialogue System  
+    • Language Model  
 <!--  
     • Conversation Model  
     • Multi-Turn Conversation
