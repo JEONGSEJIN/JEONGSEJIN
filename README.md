@@ -59,3 +59,5 @@ Here are some ideas to get you started:
 
 <a href="https://hadoop.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=plastic&logo=ApacheHadoop&logoColor=white"/></a>
 <a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=plastic&logo=ApacheSpark&logoColor=white"/></a>
+
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/JEONGSEJIN/JEONGSEJIN)﻿
