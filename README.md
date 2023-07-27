@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 
   > <del>(Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)</del>  
 
+
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
 <a href="https://cplusplus.com/?" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/></a>
 <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://img.shields.io/badge/Java-FFFFFF?style=plastic&logo=OpenJDK&logoColor=white"/></a>
