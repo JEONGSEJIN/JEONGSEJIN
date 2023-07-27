@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     • Game Theory
 --> 
 
-## ⭐ My Home  
+## ⭐ Homepages  
   > (Public)  [velog (https://velog.io/@sejinjeong)](https://velog.io/@sejinjeong)  
 
   > <del>(Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)</del>  
