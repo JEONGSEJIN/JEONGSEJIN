@@ -52,8 +52,7 @@ Here are some ideas to get you started:
 ## ⭐ Homepages  
   > (Public)  [velog (https://velog.io/@sejinjeong)](https://velog.io/@sejinjeong)  
 
-  > <del>(Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)</del>  
-
+  > <del>(Private) [GitBlog (https://jeongsejin.github.io/)](https://jeongsejin.github.io/)</del>    
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
 <a href="https://cplusplus.com/?" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/></a>
